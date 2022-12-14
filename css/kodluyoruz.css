@@ -1,0 +1,33 @@
+        body {
+            background-color: beige;
+        }
+
+        .header {
+            position:relative;
+            margin-left: 30%;
+        }
+
+        article {
+            position:relative;
+            margin: 03%;
+            border: 10px green;
+            border-style: dotted;
+            padding: 10px;
+
+        }
+
+        .piano-cesitleri {
+            position:relative;
+            margin-top: 05%;
+            left: 35%;
+        }
+        /* Merhaba*/
+        h1 {
+            color:rgb(84, 201, 7);
+            font-size:62px
+        }
+
+        h2 {
+            color:rgb(84, 175, 23);
+            font-size:32px
+        }
